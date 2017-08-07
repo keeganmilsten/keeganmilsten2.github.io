@@ -81,6 +81,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a Linux enthusiast who wishes to expand the Antergos Project to include as many Desktop Environments and WMs as possible. Each DE caters to a certain sort of individual. It is my hope that through this project, future Antergos users will be able to choose the DE that is best suited for them."
   location         : "Clssified"
+  website          : https://linuxbasicssite.wordpress.com
   email            :
   uri              :
   bitbucket        :
