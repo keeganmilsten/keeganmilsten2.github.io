@@ -13,7 +13,7 @@ name                     : ""
 description              : "The Antergos Community Edition"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : # keeganmilsten/Antergos-Community-Editions"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -83,7 +83,7 @@ author:
   location         : "Clssified"
   website          : https://linuxbasicssite.wordpress.com
   email            :
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -238,7 +238,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: splash
     values:
       layout: single
       author_profile: true
