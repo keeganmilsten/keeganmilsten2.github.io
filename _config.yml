@@ -12,7 +12,7 @@ header:
    caption: "Antergos Deepin"
    cta_label: "Download"
    cta_url: "https://hubic.com/home/pub/?ruid=aHR0cHM6Ly9sYjk5MTEuaHViaWMub3ZoLm5ldC92MS9BVVRIXzExYTY3YTdhZjY0MmQ2ZGFhOTFlMGIwZWY3Mjg2OWRlL2RlZmF1bHQvLm92aFB1Yi8xNTAyMDE0ODc1XzE1MDQ2MDY4NzU/dGVtcF91cmxfc2lnPTU3M2U5YmE4MmQ5NTVkYzZmYmY5MTA4MzYwNDllY2YyNzk2YmJlMGYmdGVtcF91cmxfZXhwaXJlcz0xNTA0NjA2ODc1"
-   excerpt: "The Antergos Community Edition is an Antergos Linux ISO with Deepin DE as the Live Environment and four new, additional DE's to choose from upon installation! These DE's include Deepin, i3, Enlightenment, and Budgie. Enjoy!
+   
 permalink: /deepin/
 locale                   : "en"
 title                    : "Antergos Community Edition"
