@@ -21,3 +21,20 @@ title: Antergos Community Editions
 ![_config.yml]({{ site.baseurl }}/assets/images/deepin4.png) ![_config.yml]({{ site.baseurl }}/assets/images/deepin5.png) ![_config.yml]({{ site.baseurl }}/assets/images/deepin6.png)
 
 For more Community ISOs, please visit [this](https://github.com/karasu/antergos-community-editions) site.
+
+## Changes: ##
+
+feature_row:
+  - image_path: /assets/images/image.jpg
+    alt: "Download Here"
+    title: "Hubic"
+    url: "https://hubic.com/home/pub/?ruid=aHR0cHM6Ly9sYjk5MTEuaHViaWMub3ZoLm5ldC92MS9BVVRIXzExYTY3YTdhZjY0MmQ2ZGFhOTFlMGIwZWY3Mjg2OWRlL2RlZmF1bHQvLm92aFB1Yi8xNTAyMDE0ODc1XzE1MDQ2MDY4NzU/dGVtcF91cmxfc2lnPTU3M2U5YmE4MmQ5NTVkYzZmYmY5MTA4MzYwNDllY2YyNzk2YmJlMGYmdGVtcF91cmxfZXhwaXJlcz0xNTA0NjA2ODc1"
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "Download Here"
+    title: "kamprad.net"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "http://kamprad.net/Downloads/?C=M;O=A"
+  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "Download Here"
+    title: "MediaFire"
+    url: "**yet to be published**
